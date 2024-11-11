@@ -1,6 +1,6 @@
 name: Continuous Integration Workflow
 
-# This workflow is triggered whenever a new PR
+# This workflow
 on:
   pull_request:
     branches:
